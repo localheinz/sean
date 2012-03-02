@@ -1,0 +1,8 @@
+Const SLCTRNG : Array[1..2,1..16] Of Word = (($FFFF,$FFFF,$FFFF,$FFFF,
+                                              $FFFF,$FFFF,$C1FF,$DDFF,
+                                              $D5FF,$D5FF,$94FF,$777F,
+                                              $A2FF,$D5FF,$EBFF,$F7FF),
+                                             ($0000,$0000,$0000,$0000,
+                                              $0000,$0000,$0000,$0000,
+                                              $0800,$0800,$0800,$0800,
+                                              $1C00,$0800,$0000,$0000));
